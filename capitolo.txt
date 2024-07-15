@@ -1,1 +1,2 @@
 testor
+utilizzato per visualizzare la cronologia dei commit in un repository Git. Fornisce un elenco dettagliato dei commit, mostrando informazioni come l'hash del commit, l'autore, la data e il messaggio del commit.
